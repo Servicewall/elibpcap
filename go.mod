@@ -1,6 +1,6 @@
 module github.com/jschwinger233/elibpcap
 
-go 1.21.0
+go 1.20
 
 require (
 	github.com/cilium/ebpf v0.11.0
